@@ -1,6 +1,5 @@
 print('Hello Git') 
 print('User login feature') 
 print('Added dashboard UI') 
-print('Hello this message is from A')
 print('Hello from B')
 print('Hello from A')
